@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.simplemobiletools:commons-4.1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/commons-4.1.4.aar/1d5895ee00ca30517be5c209be1c5848/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/commons-4.1.4.aar/1d5895ee00ca30517be5c209be1c5848/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.simplemobiletools/commons/4.1.4/2d64aefde50a4420697c082f831db1fafb99a699/commons-4.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

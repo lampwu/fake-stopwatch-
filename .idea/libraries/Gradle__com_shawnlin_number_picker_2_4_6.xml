@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shawnlin:number-picker-2.4.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/number-picker-2.4.6.aar/2f88dfa542f9371106698c301af24f81/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/number-picker-2.4.6.aar/2f88dfa542f9371106698c301af24f81/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shawnlin/number-picker/2.4.6/c4ac770aa5927ff5caec8d5058586bc3c3f8754f/number-picker-2.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="by_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d horas</item>
+    </plurals>
+    <plurals name="by_minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d minutos</item>
+    </plurals>
+    <plurals name="by_seconds">
+        <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d día</item>
+        <item quantity="other">%d días</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="one">%d día antes</item>
+        <item quantity="other">%d días antes</item>
+    </plurals>
+    <plurals name="delete_items">
+        <item quantity="one">%d elemento</item>
+        <item quantity="other">%d elementos</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d horas</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="one">%d hora antes</item>
+        <item quantity="other">%d horas antes</item>
+    </plurals>
+    <plurals name="in_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d horas</item>
+    </plurals>
+    <plurals name="in_minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d minutos</item>
+    </plurals>
+    <plurals name="in_seconds">
+        <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%d elemento</item>
+        <item quantity="other">%d elementos</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d minutos</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="one">%d minuto antes</item>
+        <item quantity="other">%d minutos antes</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d mes</item>
+        <item quantity="other">%d meses</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+    <plurals name="seconds_before">
+        <item quantity="one">%d segundo antes</item>
+        <item quantity="other">%d segundos antes</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d semana</item>
+        <item quantity="other">%d semanas</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d año</item>
+        <item quantity="other">%d años</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about">Acerca de</string>
+    <string name="add_fingerprint">Añadir Huella dactilar</string>
+    <string name="add_new_sound">Agrega un nuevo sonido</string>
+    <string name="additional_info">Información adicional</string>
+    <string name="alarm">Alarma</string>
+    <string name="alarm_goes_off_in">Tiempo restante hasta que suene la alarma:\n%s</string>
+    <string name="alarm_tab">Alarm tab</string>
+    <string name="alarm_warning">Asegúrese de que la alarma funcione correctamente antes de confiar en ella. Podría comportarse mal debido a las restricciones del sistema relacionadas con el ahorro de batería.</string>
+    <string name="album">Álbum</string>
+    <string name="always">Siempre</string>
+    <string name="an_error_occurred">Un error ocurrió: %s</string>
+    <string name="app_icon_color">Color del icono de la aplicación</string>
+    <string name="app_launcher_name">Clock</string>
+    <string name="app_long_description">
+        The app has multiple functions related to timing.
+
+        At the clock you can enable displaying times from other timezones, or use the simple, but customizable clock widget. The text color of the widget can be customized, as well as the color and the alpha of the background.
+
+        The alarm contains all the expected features as day selecting, vibration toggling, ringtone selecting, snooze or adding a custom label.
+
+        With the stopwatch you can easily measure a longer period of time, or individual laps. You can sort the laps by lap time, it contains optional vibrations on button presses too, just to let you know that the button was pressed, even if you cannot look at the device.
+
+        You can easily setup a timer to be notified of some event. You can both change its ringtone, or toggle vibrations.
+
+        Additional features include for example preventing the device from falling asleep while the app is in foreground.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+    </string>
+    <string name="app_name">Simple Clock</string>
+    <string name="app_short_description">A combination of a clock, alarm, stopwatch and timer.</string>
+    <string name="app_version">App version: %s</string>
+    <string name="append">Añadir \'_1\'</string>
+    <string name="apply_to_all">Aplicar a todo</string>
+    <string name="apply_to_all_apps">Aplicar colores a todas las aplicaciones Simple Apps</string>
+    <string name="april">Abril</string>
+    <string name="artist">Artista</string>
+    <string name="ascending">Ascendente</string>
+    <string name="at_start">Al inicio</string>
+    <string name="august">Agosto</string>
+    <string name="authentication_blocked">Autenticación bloqueada, por favor intente de nuevo en un momento</string>
+    <string name="authentication_failed">Autenticación fallida</string>
+    <string name="autofittextview_title">AutoFitTextView (resizing text)</string>
+    <string name="avoid_whats_new">Permitir mostrar novedades al iniciar</string>
+    <string name="background_color">Color del fondo</string>
+    <string name="before_asking_question">Antes de hacer una pregunta, primero lea las</string>
+    <string name="black_white">Blanco &amp; Negro</string>
+    <string name="camera">Cámara</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change_color">Cambiar de color</string>
+    <string name="change_filter">Cambiar filtro</string>
+    <string name="changing_color_description">Cambiar un color hará que cambie a tema personalizado</string>
+    <string name="click_select_destination">Pulsa aquí para elegir el destino</string>
+    <string name="clock_and_date">Clock and date</string>
+    <string name="clock_tab">Clock tab</string>
+    <string name="confirm_otg_storage_access_text">Elija la carpeta raíz del dispositivo OTG en la pantalla siguiente, para otorgar acceso</string>
+    <string name="confirm_selection">Confirmar la selección</string>
+    <string name="confirm_storage_access_text">Por favor, elija la carpeta raíz de la tarjeta SD en la próxima pantalla para conceder el acceso de escritura</string>
+    <string name="confirm_storage_access_text_sd">Si no ve la tarjeta SD, prueba esto</string>
+    <string name="confirm_storage_access_title">Permita el acceso al almacenamiento externo</string>
+    <string name="copy">Copiar</string>
+    <string name="copy_failed">No se pudo copiar los archivos</string>
+    <string name="copy_move">Copiar/Mover</string>
+    <string name="copy_move_failed">Un error ocurrió</string>
+    <string name="copy_to">Copiar a</string>
+    <string name="copying">Copiando…</string>
+    <string name="copying_success">Archivos copiados correctamente</string>
+    <string name="copying_success_partial">Algunos archivos no se pudieron copiar</string>
+    <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">No se puede crear el fichero %s</string>
+    <string name="could_not_create_folder">No se puede crear la carpeta %s</string>
+    <string name="create_new">Crear nueva</string>
+    <string name="create_new_folder">Crear nueva carpeta</string>
+    <string name="cropper_title">Android Image Cropper (image crop and rotate)</string>
+    <string name="custom">Personalizado</string>
+    <string name="customize_colors">Cambiar colores</string>
+    <string name="customize_widget_colors">Personaliza los colores del widget</string>
+    <string name="dark_red">Rojo Oscuro</string>
+    <string name="dark_theme">Oscuro</string>
+    <string name="date_taken">Creación</string>
+    <string name="days_raw">días</string>
+    <string name="december">Diciembre</string>
+    <string name="delete">Eliminar</string>
+    <string name="deleting_folder">Eliminando carpeta \'%s\'</string>
+    <string name="deletion_confirmation">Estas seguro que quieres borrar %s?</string>
+    <string name="descending">Descendente</string>
+    <string name="destination">Destino</string>
+    <string name="details">Detalles</string>
+    <string name="device_os">Device OS: %s</string>
+    <string name="direct_children_count">Número de archivos directamente contenidos</string>
+    <string name="discard">Deshacer</string>
+    <string name="dismiss">Candelar</string>
+    <string name="do_not_ask_again">No volver a preguntar en esta sesión</string>
+    <string name="donate">Donar</string>
+    <string name="donate_please">
+        <![CDATA[
+            Hola,<br><br>
+            Espero que estés disfrutando de la aplicación. No contiene anuncios, por lo que debe respaldar su desarrollo comprando la aplicación <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a>, también evitará que este diálogo vuelva a aparecer.<br><br>
+            Puedes encontrar más opciones de donación <a href="https://simplemobiletools.com/donate">aquí</a>.<br><br>
+            Gracias!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Donar</u></string>
+    <string name="duration">Duración</string>
+    <string name="email_label">Envía tus comentarios o sugerencias a</string>
+    <string name="empty_name">Por favor introduce un nombre</string>
+    <string name="empty_recycle_bin">Vaciar papelera de reciclaje</string>
+    <string name="enable_pull_to_refresh">Habilitar tirar desde la parte superior para refrescar</string>
+    <string name="enter_pin">Introduzca PIN</string>
+    <string name="espresso_title">Espresso (testing helper)</string>
+    <string name="exif">EXIF</string>
+    <string name="exporting">Exportando…</string>
+    <string name="exporting_failed">Exportación fallida</string>
+    <string name="exporting_some_entries_failed">La exportación de algunas entradas ha fallado</string>
+    <string name="exporting_successful">Exportación correcta</string>
+    <string name="exposure_time">Tiempo de exposición</string>
+    <string name="extension">Extensión</string>
+    <string name="extension_cannot_be_empty">La extensión no puede estar vacía</string>
+    <string name="extra_large">Enorme</string>
+    <string name="f_number">F-number</string>
+    <string name="faq_1_text">Just click on any of the columns, that will make the laps be sorted by the given column. With additional clicks you can toggle between ascending and descending sorting.</string>
+    <string name="faq_1_text_commons">Lo más probable es que haya movido la aplicación en una tarjeta SD. Hay una limitación del sistema Android que oculta los widgets de la aplicación dada
+        en ese caso. La única solución es volver a colocar la aplicación en el almacenamiento interno a través de la configuración de su dispositivo.</string>
+    <string name="faq_1_title">How can I change lap sorting at the stopwatch tab?</string>
+    <string name="faq_1_title_commons">¿Cómo es que no veo este widget de aplicaciones en la lista de widgets?</string>
+    <string name="faq_2_text_commons">Sí, por supuesto. Puede correr la voz sobre las aplicaciones o dar buenos comentarios y valoraciones. También puede ayudar traduciendo las aplicaciones en un nuevo idioma o simplemente actualizar algunas traducciones existentes.
+        Puede encontrar la guía en https://github.com/SimpleMobileTools/General-Discussion, o simplemente envíeme un mensaje a hello@simplemobiletools.com si necesita ayuda.</string>
+    <string name="faq_2_title_commons">Quiero apoyarte, pero no puedo donar dinero. ¿Hay algo mas que pueda hacer?</string>
+    <string name="faq_3_text_commons">Tristemente, no puedes. Los archivos se eliminan instantáneamente después del diálogo de confirmación, no hay papelera disponible.</string>
+    <string name="faq_3_title_commons">Borré algunos archivos por error, ¿cómo puedo recuperarlos?</string>
+    <string name="faq_4_text_commons">Sí, al arrastrar un widget en la pantalla de inicio aparece una pantalla de configuración de widgets. Verá cuadrados de colores en la esquina inferior izquierda, solo presione para elegir un nuevo color. Puede usar el control deslizante para ajustar el alfa también.</string>
+    <string name="faq_4_title_commons">No me gustan los colores del widget, ¿puedo cambiarlos?</string>
+    <string name="faq_5_text_commons">Si realmente fueron eliminados, no puedes. Sin embargo, puedes habilitar el uso de una papelera de reciclaje en lugar de eliminar en la configuración de la aplicación. Eso solo moverá los archivos en lugar de eliminarlos. Puedes personalizar la ubicación de la papelera de reciclaje y el intervalo de vaciado o vaciarla manualmente.</string>
+    <string name="faq_5_title_commons">¿Puedo de alguna manera restaurar archivos borrados?</string>
+    <string name="february">Febrero</string>
+    <string name="file">Archivo</string>
+    <string name="file_already_exists">El archivo \"%s\" ya existe</string>
+    <string name="file_already_exists_overwrite">El archivo \"%s\" ya existe. Sobreescribir?</string>
+    <string name="file_operations">Operaciones de ficheros</string>
+    <string name="file_saved">Archivo guardado con éxito</string>
+    <string name="filename">Nombre del archivo</string>
+    <string name="filename_cannot_be_empty">El nombre del archivo no puede estar vacío</string>
+    <string name="filename_invalid_characters">El nombre del archivo contiene caracteres no válidos</string>
+    <string name="filename_invalid_characters_placeholder">El nombre del archivo \'%s\' contiene caracteres no válidos</string>
+    <string name="files_count">Número total de archivos</string>
+    <string name="filter">Filtrar</string>
+    <string name="fingerprint">Huella dactilar</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"El sensor de huellas digitales está sucio. Límpialo y vuelve a intentarlo."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"No se ha podido procesar la huella digital. Vuelve a intentarlo."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Se ha detectado una huella digital parcial. Vuelve a intentarlo."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Has quitado el dedo demasiado rápido. Vuelve a intentarlo."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Has movido el dedo demasiado despacio. Vuelve a intentarlo."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Se ha cancelado la operación de huella digital."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"El hardware de huella digital no está disponible."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Demasiados intentos. Vuelve a intentarlo más tarde."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"No se puede almacenar la huella digital. Elimina una ya creada."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Se ha alcanzado el tiempo de espera de la huella digital. Vuelve a intentarlo."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Vuelve a intentarlo."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"No reconocido"</string>
+    <string name="fingerprint_setup_successfully">Configuración de protección con éxito. Por favor, vuelva a instalar la aplicación en caso de problemas al restablecerla.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Huellas digitales:"</string>
+    <string name="focal_length">Longitud focal</string>
+    <string name="folder">Carpeta</string>
+    <string name="folder_already_exists">La carpeta \"%s\" ya existe</string>
+    <string name="follow_us">Síguenos</string>
+    <string name="font_size">Tamaño de fuente</string>
+    <string name="force_portrait_mode">Forzar el modo retrato</string>
+    <string name="foreground_color">Color de primer plano</string>
+    <string name="frequently_asked_questions">Preguntas frecuentes</string>
+    <string name="friday">Viernes</string>
+    <string name="friday_letter">V</string>
+    <string name="friday_short">Vie</string>
+    <string name="gif_drawable_title">Gif Drawable (loading GIFs)</string>
+    <string name="glide_title">Glide (image loading and caching)</string>
+    <string name="go_to_settings">Ir a la configuración</string>
+    <string name="gson_title">Gson (JSON parser)</string>
+    <string name="hide">Ocultar</string>
+    <string name="hide_folder">Ocultar carpeta</string>
+    <string name="hours_raw">horas</string>
+    <string name="importing">Importando…</string>
+    <string name="importing_failed">Importación fallida</string>
+    <string name="importing_some_entries_failed">La importación de algunas entradas ha fallado</string>
+    <string name="importing_successful">Importación correcta</string>
+    <string name="in_april">en Abril</string>
+    <string name="in_august">en Agosto</string>
+    <string name="in_december">en Diciembre</string>
+    <string name="in_february">en Febrero</string>
+    <string name="in_january">en Enero</string>
+    <string name="in_july">en Julio</string>
+    <string name="in_june">en Junio</string>
+    <string name="in_march">en Marzo</string>
+    <string name="in_may">en Mayo</string>
+    <string name="in_november">en Noviembre</string>
+    <string name="in_october">en Octubre</string>
+    <string name="in_september">en Septiembre</string>
+    <string name="insert_pattern">Inserte Patrón</string>
+    <string name="internal">Almacenamiento interno</string>
+    <string name="invalid_destination">No se pudo escribir en el destino elegido</string>
+    <string name="invalid_file_format">Formato de archivo no válido</string>
+    <string name="invalid_name">El nombre contiene caracteres no válidos</string>
+    <string name="invite_friends_underlined"><u>Invitar a amigos</u></string>
+    <string name="invite_via">Invitar con</string>
+    <string name="iso_speed">Velocidad ISO</string>
+    <string name="items_selected">Elementos seleccionados</string>
+    <string name="january">Enero</string>
+    <string name="joda_title">Joda-Time (Java date replacement)</string>
+    <string name="july">Julio</string>
+    <string name="june">Junio</string>
+    <string name="keep_last_modified">Mantener el valor de ultima modificación al copiar/mover/renombrar los archivos</string>
+    <string name="kotlin_title">Kotlin (Programming language)</string>
+    <string name="label">Label</string>
+    <string name="lap">Lap</string>
+    <string name="large">Grande</string>
+    <string name="last_modified">Modificación</string>
+    <string name="leak_canary_title">Leak Canary (memory leak detector)</string>
+    <string name="light_theme">Claro</string>
+    <string name="march">Marzo</string>
+    <string name="max_reminder_duration">Max reminder duration</string>
+    <string name="maximum_share_reached">No puedes compartir todo este contenido a la vez</string>
+    <string name="may">Mayo</string>
+    <string name="medium">Mediana</string>
+    <string name="merge">Fusionar</string>
+    <string name="minutes_raw">minutos</string>
+    <string name="monday">Lunes</string>
+    <string name="monday_letter">L</string>
+    <string name="monday_short">Lun</string>
+    <string name="more_apps_underlined"><u>Más aplicaciones</u></string>
+    <string name="move">Mover</string>
+    <string name="move_items_to_trash_bin">Mover los elementos en la Papelera de reciclaje en lugar de eliminar</string>
+    <string name="move_to">Mover a</string>
+    <string name="move_to_recycle_bin_confirmation">¿Estás seguro de que quieres mover %s a la papelera de reciclaje?</string>
+    <string name="moving">Moviendo…</string>
+    <string name="moving_success">Archivos movidos correctamente</string>
+    <string name="moving_success_partial">Algunos archivos no se pudieron mover</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (selecting multiple list items)</string>
+    <string name="name">Nombre</string>
+    <string name="name_taken">Ya existe un archivo o carpeta con ese nombre</string>
+    <string name="never">Nunca</string>
+    <string name="new_app">
+        <![CDATA[
+            Hola,<br><br>
+            solo te informamos que recientemente se ha lanzado una nueva aplicación:<br><br>
+            <a href="%1$s">%2$s</a><br><br>
+            Puedes descargarla presionando el título.<br><br>
+            Gracias
+        ]]>
+    </string>
+    <string name="no">No</string>
+    <string name="no_app_found">No se encontró una aplicación válida</string>
+    <string name="no_audio_permissions">Se requiere permiso de audio</string>
+    <string name="no_camera_permissions">Se requiere permiso de la cámara</string>
+    <string name="no_contacts_permission">Se requiere permiso de Contactos</string>
+    <string name="no_days_selected">No days selected</string>
+    <string name="no_entries_for_exporting">No se han encontrado entradas para exportar</string>
+    <string name="no_files_selected">No hay archivos seleccionados</string>
+    <string name="no_fingerprints_registered">No tiene huellas dactilares registradas, por favor agregue algunas en la Configuración de su dispositivo</string>
+    <string name="no_items_found">No se encontraron artículos.</string>
+    <string name="no_reminder">Sin recordatorio</string>
+    <string name="no_sound">Sin sonido</string>
+    <string name="no_storage_permissions">Se requiere permiso de almacenamiento</string>
+    <string name="notes">Notas</string>
+    <string name="notice">Esta aplicación usa las siguientes bibliotecas de terceros que hacen mi vida más fácil. Gracias.</string>
+    <string name="november">Noviembre</string>
+    <string name="number_picker_title">Selector de número (selector de número personalizable)</string>
+    <string name="october">Octubre</string>
+    <string name="ok">OK</string>
+    <string name="open_with">Abrir con</string>
+    <string name="otg">OTG</string>
+    <string name="otto_title">Otto (event bus)</string>
+    <string name="out_of_memory_error">Error: sin memória</string>
+    <string name="overwrite">Sobreescribir</string>
+    <string name="password_protect_hidden_items">Contraseña para proteger los medios ocultos</string>
+    <string name="password_protect_whole_app">Contraseña para proteger toda la aplicación</string>
+    <string name="path">Ubicación</string>
+    <string name="pattern">Patrón</string>
+    <string name="pattern_title">PatternLockView (pattern protection)</string>
+    <string name="photoview_title">PhotoView (zoomable GIFs)</string>
+    <string name="picasso_title">Picasso (image loading and caching)</string>
+    <string name="pin">PIN</string>
+    <string name="place_finger">Por favor pon el dedo en el lector de Huella dactilares</string>
+    <string name="please_enter_pin">Por favor introduzca PIN</string>
+    <string name="please_select_destination">Por favor elige un destino</string>
+    <string name="prevent_phone_from_sleeping">No dejar dormir el teléfono con la aplicación en primer plano</string>
+    <string name="primary_color">Color principal</string>
+    <string name="proceed_with_deletion">¿Está seguro de querer continuar con la eliminación?</string>
+    <string name="properties">Propiedades</string>
+    <string name="protection_setup_successfully">Se ha agregado la contraseña exitosamente. Por favor, vuelva a instalar la aplicación en caso de que la olvide.</string>
+    <string name="purchase">Comprar</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Please purchase <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> to unlock this function and support the development. Thanks!
+        ]]>
+    </string>
+    <string name="rate_us_underlined"><u>Vótanos en Play Store</u></string>
+    <string name="recycle_bin">Papelera de reciclaje</string>
+    <string name="recycle_bin_cleaning_interval">Intervalo de vaciado de la papelera de reciclaje</string>
+    <string name="recycle_bin_location">Ubicación de la papelera de reciclaje</string>
+    <string name="reminder_warning">Asegúrese de que los recordatorios funcionen correctamente antes de confiar en ellos. Podrían portarse mal debido a las restricciones del sistema relacionadas con el ahorro de batería.</string>
+    <string name="rename">Renombrar</string>
+    <string name="rename_file">Renombrar archivo</string>
+    <string name="rename_file_error">No se pudo renombrar el archivo</string>
+    <string name="rename_folder">Renombrar carpeta</string>
+    <string name="rename_folder_empty">El nombre de la carpeta no puede estar vacío</string>
+    <string name="rename_folder_error">No se pudo renombrar la carpeta</string>
+    <string name="rename_folder_exists">Ya existe una carpeta con ese nombre</string>
+    <string name="rename_folder_ok">Carpeta renombrada correctamente</string>
+    <string name="rename_folder_root">No se puede cambiar el nombre de la carpeta raíz del almacenamiento</string>
+    <string name="renaming_folder">Renombrando carpeta</string>
+    <string name="repeat_pattern">Repetir Patrón</string>
+    <string name="repeat_pin">Repetir PIN</string>
+    <string name="reprint_title">Reprint (fingerprint protection)</string>
+    <string name="resolution">Resolución</string>
+    <string name="restore_defaults">Valores por defecto</string>
+    <string name="robolectric_title">Robolectric (testing framework)</string>
+    <string name="root">Raíz /</string>
+    <string name="rtl_viewpager_title">RtlViewPager (right to left swiping)</string>
+    <string name="saturday">Sábado</string>
+    <string name="saturday_letter">S</string>
+    <string name="saturday_short">Sáb</string>
+    <string name="save">Guardar</string>
+    <string name="save_as">Guardar como</string>
+    <string name="save_before_closing">Tiene cambios sin aplicar. ¿Guardar antes de salir?</string>
+    <string name="saving">Guardando…</string>
+    <string name="saving_label">Guardando</string>
+    <string name="scrolling">Desplazamiento</string>
+    <string name="sd_card">Tarjeta SD</string>
+    <string name="sd_card_otg_same">La targeta SD i el dispositivo OTG no pueden ser los mismos</string>
+    <string name="search">Buscar</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="seconds_raw">segundos</string>
+    <string name="security">Seguridad</string>
+    <string name="select_all">Seleccionar todo</string>
+    <string name="select_destination">Seleccionar destino</string>
+    <string name="select_file">Seleccione un archivo</string>
+    <string name="select_folder">Seleccione una carpeta</string>
+    <string name="select_storage">Seleccione almacenamiento</string>
+    <string name="september">Septiembre</string>
+    <string name="set_as">Establecer como</string>
+    <string name="settings">Ajustes</string>
+    <string name="share">Compartir</string>
+    <string name="share_colors_success">Colores actualizados correctamente. Se ha añadido un nuevo tema llamado \'Shared\', Por favor utilicelo para actualizar los colores de todas las aplicaciones en el futuro.</string>
+    <string name="share_text">Hola, ven y mira %1$s en %2$s</string>
+    <string name="share_via">Compartir con</string>
+    <string name="shared">Compartido</string>
+    <string name="show_hidden_items">Mostrar elementos ocultos</string>
+    <string name="show_info_bubble">Mostrar una burbuja de información al desplazar elementos arrastrando la barra de desplazamiento</string>
+    <string name="show_seconds">Show seconds</string>
+    <string name="size">Tamaño</string>
+    <string name="skip">Saltar</string>
+    <string name="skip_delete_confirmation">Omitir siempre el diálogo de confirmación de eliminación</string>
+    <string name="small">Pequeña</string>
+    <string name="snooze">Posponer</string>
+    <string name="snooze_time">Tiempo de repetición</string>
+    <string name="solarized">Solarized</string>
+    <string name="song_title">Título de la canción</string>
+    <string name="sort_by">Ordenar por</string>
+    <string name="source">Origen</string>
+    <string name="source_and_destination_same">Origen y destino no pueden coincidir</string>
+    <string name="source_file_doesnt_exist">El archivo %s no existe</string>
+    <string name="startup">Puesta en marcha</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="stetho_title">Stetho (debugging databases)</string>
+    <string name="stop_showing_hidden">No mostrar ocultos</string>
+    <string name="stopwatch_stopped">Stopwatch has been stopped</string>
+    <string name="stopwatch_tab">Stopwatch tab</string>
+    <string name="subsampling_title">Subsampling Scale Image View (zoomable imageviews)</string>
+    <string name="sunday">Domingo</string>
+    <string name="sunday_first">Comenzar la semana en Domingo</string>
+    <string name="sunday_letter">D</string>
+    <string name="sunday_short">Dom</string>
+    <string name="system_sounds">Sonidos del sistema</string>
+    <string name="temporarily_show_hidden">Mostrar ocultos temporalmente</string>
+    <string name="text">Texto</string>
+    <string name="text_color">Color del texto</string>
+    <string name="theme">Tema</string>
+    <string name="third_party_licences">Licencias de terceros</string>
+    <string name="third_party_licences_underlined"><u>Licencias de terceros</u></string>
+    <string name="thursday">Jueves</string>
+    <string name="thursday_letter">J</string>
+    <string name="thursday_short">Jue</string>
+    <string name="time_expired">Time expired</string>
+    <string name="time_zone">Time zone</string>
+    <string name="timer">Timer</string>
+    <string name="timer_stopped">Timer has been stopped</string>
+    <string name="timer_tab">Timer tab</string>
+    <string name="title">Título</string>
+    <string name="tomorrow">Mañana</string>
+    <string name="tuesday">Martes</string>
+    <string name="tuesday_letter">M</string>
+    <string name="tuesday_short">Mar</string>
+    <string name="type_2_characters">Escribe por lo menos dos caracteres para iniciar la búsqueda.</string>
+    <string name="undo_changes">Deshacer cambios</string>
+    <string name="undo_changes_confirmation">¿Seguro que quiere deshacer los cambios?</string>
+    <string name="unhide">Mostrar</string>
+    <string name="unhide_folder">Mostrar carpeta</string>
+    <string name="unknown">Desconocido</string>
+    <string name="unknown_error_occurred">Ocurrió un error desconocido</string>
+    <string name="update_thank_you">Por favor, actualice Simple Tank You a la última versión</string>
+    <string name="use_24_hour_time_format">Usar el formato 24 horas</string>
+    <string name="use_english_language">Usar el idioma Inglés</string>
+    <string name="use_for_this_folder">Sólo para esta carpeta</string>
+    <string name="use_same_snooze">Siempre use el mismo tiempo de repetición</string>
+    <string name="use_text_shadow">Use text shadow</string>
+    <string name="value_copied_to_clipboard">Valor copiado en el portapapeles</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="vibrate_on_button_press">Vibrar al presionar un botón</string>
+    <string name="visibility">Visibilidad</string>
+    <string name="website_label">Más aplicaciones sencillas y código fuente en</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="wednesday_letter">X</string>
+    <string name="wednesday_short">Mié</string>
+    <string name="whats_new">Qué hay de nuevo</string>
+    <string name="whats_new_disclaimer">* Sólo las actualizaciones más grandes se enumeran aquí, siempre hay algunas pequeñas mejoras también</string>
+    <string name="widgets">Widgets</string>
+    <string name="wrong_pattern">Patrón erroneo</string>
+    <string name="wrong_pin">PIN erroneo</string>
+    <string name="wrong_root_selected">Se seleccionó la carpeta incorrecta, seleccione la carpeta raíz de su tarjeta SD</string>
+    <string name="wrong_root_selected_otg">Carpeta incorrecta, seleccione la carpeta raíz de su dispositivo OTG</string>
+    <string name="yes">Sí</string>
+    <string name="your_sounds">Tus sonidos</string>
+</resources>

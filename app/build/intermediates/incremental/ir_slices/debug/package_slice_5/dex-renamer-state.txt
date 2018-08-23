@@ -1,0 +1,4 @@
+#Sat Jun 16 01:50:28 CST 2018
+base.0=D\:\\Simple-Clock-master\\Simple-Clock-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\39
+path.0=classes.dex
+renamed.0=classes.dex

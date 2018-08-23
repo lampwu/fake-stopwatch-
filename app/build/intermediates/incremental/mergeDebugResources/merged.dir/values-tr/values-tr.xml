@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="by_hours">
+        <item quantity="one">%d saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="by_minutes">
+        <item quantity="one">%d dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="by_seconds">
+        <item quantity="one">%d saniye</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">%d gün</item>
+        <item quantity="other">%d gün</item>
+    </plurals>
+    <plurals name="days_before">
+        <item quantity="one">%d gün önce</item>
+        <item quantity="other">%d gün önce</item>
+    </plurals>
+    <plurals name="delete_items">
+        <item quantity="one">%d öğe</item>
+        <item quantity="other">%d öğe</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">%d saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="hours_before">
+        <item quantity="one">%d saat önce</item>
+        <item quantity="other">%d saat önce</item>
+    </plurals>
+    <plurals name="in_hours">
+        <item quantity="one">%d saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
+    <plurals name="in_minutes">
+        <item quantity="one">%d dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="in_seconds">
+        <item quantity="one">%d saniye</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="items">
+        <item quantity="one">%d öğe</item>
+        <item quantity="other">%d öğe</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%d dakika</item>
+        <item quantity="other">%d dakika</item>
+    </plurals>
+    <plurals name="minutes_before">
+        <item quantity="one">%d dakika önce</item>
+        <item quantity="other">%d dakika önce</item>
+    </plurals>
+    <plurals name="months">
+        <item quantity="one">%d ay</item>
+        <item quantity="other">%d ay</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="one">%d saniye</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="seconds_before">
+        <item quantity="one">%d saniye önce</item>
+        <item quantity="other">%d saniye önce</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">%d hafta</item>
+        <item quantity="other">%d hafta</item>
+    </plurals>
+    <plurals name="years">
+        <item quantity="one">%d yıl</item>
+        <item quantity="other">%d yıl</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AÇ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Şununla paylaş"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="about">Hakkında</string>
+    <string name="add_fingerprint">Parmak izi ekle</string>
+    <string name="add_new_sound">Yeni bir ses ekle</string>
+    <string name="additional_info">Ek bilgiler</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_goes_off_in">Alarmın çalmasına şu kadar kaldı:\n%s</string>
+    <string name="alarm_warning">Lütfen alarma güvenmeden önce düzgün çalıştığından emin olun. Pil tasarrufu ile ilgili sistem kısıtlamaları nedeniyle yanlış davranabilir.</string>
+    <string name="album">Albüm</string>
+    <string name="always">Her zaman</string>
+    <string name="an_error_occurred">Bir hata oluştu: %s</string>
+    <string name="app_icon_color">Uygulama simgesi rengi</string>
+    <string name="app_version">Uygulama sürümü: %s</string>
+    <string name="append">\'_1\' ile ekle</string>
+    <string name="apply_to_all">Tümüne uygula</string>
+    <string name="apply_to_all_apps">Tüm Basit Uygulamalara renk uygula</string>
+    <string name="april">Nisan</string>
+    <string name="artist">Sanatçı</string>
+    <string name="ascending">Artan</string>
+    <string name="at_start">Başlangıçta</string>
+    <string name="august">Ağustos</string>
+    <string name="authentication_blocked">Kimlik doğrulama engellendi, lütfen birazdan tekrar deneyin</string>
+    <string name="authentication_failed">Kimlik doğrulama başarısız</string>
+    <string name="autofittextview_title">AutoFitTextView (metin boyutunu değiştirme)</string>
+    <string name="avoid_whats_new">Başlangıçta Yenilikleri göstermeyi önle</string>
+    <string name="background_color">Arka plan rengi</string>
+    <string name="before_asking_question">Bir soru sormadan önce, lütfen şurayı okuyun</string>
+    <string name="black_white">Siyah &amp; Beyaz</string>
+    <string name="camera">Kamera</string>
+    <string name="cancel">İptal</string>
+    <string name="change_color">Rengi değiştir</string>
+    <string name="change_filter">Filtreyi değiştir</string>
+    <string name="changing_color_description">Bir rengin değiştirilmesi, Özel temaya geçilmesini sağlayacaktır</string>
+    <string name="click_select_destination">Hedef seçmek için buraya tıklayın</string>
+    <string name="confirm_otg_storage_access_text">Erişim vermek için lütfen bir sonraki ekranda OTG cihazının kök klasörünü seçin</string>
+    <string name="confirm_selection">Seçimi onayla</string>
+    <string name="confirm_storage_access_text">Yazma erişimi vermek için lütfen bir sonraki ekranda SD kartın kök klasörünü seçin</string>
+    <string name="confirm_storage_access_text_sd">SD kartı görmüyorsanız, bunu deneyin</string>
+    <string name="confirm_storage_access_title">Harici depolama erişimini onayla</string>
+    <string name="copy">Kopyala</string>
+    <string name="copy_failed">Dosyalar kopyalanamadı</string>
+    <string name="copy_move">Kopyala / Taşı</string>
+    <string name="copy_move_failed">Bir hata oluştu</string>
+    <string name="copy_to">Kopyala:</string>
+    <string name="copying">Kopyalanıyor…</string>
+    <string name="copying_success">Dosyalar başarıyla kopyalandı</string>
+    <string name="copying_success_partial">Bazı dosyalar kopyalanamadı</string>
+    <string name="copyright">v %1$s\nTelif hakkı © Simple Mobile Tools %2$d</string>
+    <string name="could_not_create_file">%s dosyası oluşturulamıyor</string>
+    <string name="could_not_create_folder">%s klasörü oluşturulamıyor</string>
+    <string name="create_new">Yeni oluştur</string>
+    <string name="create_new_folder">Yeni klasör oluştur</string>
+    <string name="cropper_title">Android Image Cropper (görüntü kırpma ve döndürme)</string>
+    <string name="custom">Özel</string>
+    <string name="customize_colors">Renkleri özelleştir</string>
+    <string name="customize_widget_colors">Widget renklerini özelleştir</string>
+    <string name="dark_red">Koyu Kırmızı</string>
+    <string name="dark_theme">Karanlık</string>
+    <string name="date_taken">Alınan tarih</string>
+    <string name="days_raw">gün</string>
+    <string name="december">Aralık</string>
+    <string name="delete">Sil</string>
+    <string name="deleting_folder">\'%s\' klasörü siliniyor</string>
+    <string name="deletion_confirmation">%s gerçekten silinsin mi?</string>
+    <string name="descending">Azalan</string>
+    <string name="destination">Hedef</string>
+    <string name="details">Ayrıntılar</string>
+    <string name="device_os">Cihaz İS: %s</string>
+    <string name="direct_children_count">Alt öğe sayısı</string>
+    <string name="discard">Çık</string>
+    <string name="dismiss">Kapat</string>
+    <string name="do_not_ask_again">Bu oturumda tekrar sorma</string>
+    <string name="donate">Bağış yapın</string>
+    <string name="donate_please">
+        <![CDATA[
+            Merhaba,<br><br>
+            umarım uygulamadan memnunsunuzdur. Hiçbir reklam içermiyor, bu yüzden lütfen <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a> uygulamasını satın alarak geliştirmeyi destekleyip, bu pencerenin tekrar görünmesini de önleyin.<br><br>
+            Daha fazla bağış seçeneği <a href="https://simplemobiletools.com/donate">buradadır</a>.<br><br>
+            Teşekkürler!
+        ]]>
+    </string>
+    <string name="donate_underlined"><u>Bağış yapın</u></string>
+    <string name="duration">Süre</string>
+    <string name="email_label">Görüşlerinizi veya önerilerinizi buraya gönderin</string>
+    <string name="empty_name">Lütfen yeni bir ad girin</string>
+    <string name="empty_recycle_bin">Geri Dönüşüm Kutusunu boşalt</string>
+    <string name="enable_pull_to_refresh">Üstten yenilemek için çekmeyi etkinleştir</string>
+    <string name="enter_pin">PIN girin</string>
+    <string name="espresso_title">Espresso (test yardımcısı)</string>
+    <string name="exif">EXIF</string>
+    <string name="exporting">Dışa aktarılıyor…</string>
+    <string name="exporting_failed">Dışa aktarılamadı</string>
+    <string name="exporting_some_entries_failed">Bazı öğeler dışa aktarılamadı</string>
+    <string name="exporting_successful">Dışa aktarma başarılı</string>
+    <string name="exposure_time">Pozlama süresi</string>
+    <string name="extension">Uzantı</string>
+    <string name="extension_cannot_be_empty">Uzantı boş olamaz</string>
+    <string name="extra_large">Çok büyük</string>
+    <string name="f_number">Diyafram</string>
+    <string name="faq_1_text_commons">Büyük olasılıkla uygulamayı SD karta taşıdığınız içindir. Bu durumda verilen uygulama widget\'larını gizleyen bir Android sistem sınırlaması var. Tek çözüm, cihaz ayarlarınızı kullanarak uygulamayı Dahili Depolama birimine geri taşımaktır.</string>
+    <string name="faq_1_title_commons">Uygulamanın widget\'ını widget\'lar listesinde neden göremiyorum?</string>
+    <string name="faq_2_text_commons">Evet, tabi ki. Uygulamalar hakkında tanıtım yapabilir veya iyi geribildirim ve derecelendirmeler verebilirsiniz.
+        Kılavuzu https://github.com/SimpleMobileTools/General-Discussion adresinde bulabilir, veya yardıma ihtiyacınız varsa bana hello@simplemobiletools.com adresinden bir mesaj gönderebilirsiniz.</string>
+    <string name="faq_2_title_commons">Seni desteklemek istiyorum ama para bağışlayamıyorum. Yapabileceğim başka bir şey var mı?</string>
+    <string name="faq_3_text_commons">Ne yazık ki, yapamazsınız. Onay penceresinden sonra dosyalar anında silinir, kullanılabilir çöp kutusu yoktur.</string>
+    <string name="faq_3_title_commons">Bazı dosyaları yanlışlıkla sildim, onları nasıl kurtarabilirim?</string>
+    <string name="faq_4_text_commons">Evet, ana ekranınızda bir widget\'ı sürüklediğinizde, bir widget yapılandırma ekranı görünür. Sol alt köşede renkli kareler göreceksiniz, sadece yeni bir renk seçmek için onlara basın. Alfa\'yı da ayarlamak için kaydırıcıyı kullanabilirsiniz.</string>
+    <string name="faq_4_title_commons">Widget renklerini beğenmedim, değiştirebilir miyim?</string>
+    <string name="faq_5_text_commons">Gerçekten silinmişlerse, yapamazsınız. Bununla birlikte, gelecekte dosyaları kaybetmemek için uygulama ayarlarındaki Silmek yerine Geri Dönüşüm Kutusuna taşı seçeneğini etkinleştirebilirsiniz. Bu, dosyaları silmek yerine sadece taşır. Geri Dönüşüm Kutusu konumunu özelleştirebilir, boşaltma süresini ayarlayabilir veya elle boşaltabilirsiniz.</string>
+    <string name="faq_5_title_commons">Bir şekilde silinen dosyaları geri yükleyebilir miyim?</string>
+    <string name="february">Şubat</string>
+    <string name="file">Dosya</string>
+    <string name="file_already_exists">\"%s\" dosyası zaten var</string>
+    <string name="file_already_exists_overwrite">\"%s\" dosyası zaten var. Üzerine yazılsın mı?</string>
+    <string name="file_operations">Dosya işlemleri</string>
+    <string name="file_saved">Dosya başarıyla kaydedildi</string>
+    <string name="filename">Dosya adı</string>
+    <string name="filename_cannot_be_empty">Dosya adı boş olamaz</string>
+    <string name="filename_invalid_characters">Dosya adı geçersiz karakterler içeriyor</string>
+    <string name="filename_invalid_characters_placeholder">Dosya adı \'%s\' geçersiz karakterler içeriyor</string>
+    <string name="files_count">Toplam dosya sayısı</string>
+    <string name="filter">Filtre</string>
+    <string name="fingerprint">Parmak izi</string>
+    <string msgid="1087209702421076105" name="fingerprint_acquired_imager_dirty">"Parmak izi sensörü kirli. Lütfen temizleyin ve tekrar deneyin."</string>
+    <string msgid="4596546021310923214" name="fingerprint_acquired_insufficient">"Parmak izi işlenemedi. Lütfen tekrar deneyin."</string>
+    <string msgid="735082772341716043" name="fingerprint_acquired_partial">"Parmak izinin tümü algılanamadı. Lütfen tekrar deneyin."</string>
+    <string msgid="6470642383109155969" name="fingerprint_acquired_too_fast">"Parmak hareketi çok hızlıydı. Lütfen tekrar deneyin."</string>
+    <string msgid="59250885689661653" name="fingerprint_acquired_too_slow">"Parmak hareketi çok yavaştı. Lütfen tekrar deneyin."</string>
+    <string msgid="4402024612660774395" name="fingerprint_error_canceled">"Parmak izi işlemi iptal edildi."</string>
+    <string msgid="7955921658939936596" name="fingerprint_error_hw_not_available">"Parmak izi donanımı kullanılamıyor."</string>
+    <string msgid="5536934748136933450" name="fingerprint_error_lockout">"Çok fazla deneme yapıldı. Daha sonra tekrar deneyin."</string>
+    <string msgid="1055819001126053318" name="fingerprint_error_no_space">"Parmak izi depolanamıyor. Lütfen mevcut parmak izlerinden birini kaldırın."</string>
+    <string msgid="3927186043737732875" name="fingerprint_error_timeout">"Parmak izi için zaman aşımı oluştu. Tekrar deneyin."</string>
+    <string msgid="6107816084103552441" name="fingerprint_error_unable_to_process">"Tekrar deneyin."</string>
+    <string msgid="2690661881608146617" name="fingerprint_not_recognized">"Tanınmadı"</string>
+    <string name="fingerprint_setup_successfully">Koruma kurulumu başarıyla gerçekleştirildi. Sıfırlama ile ilgili sorunlar olması durumunda lütfen uygulamayı yeniden yükleyin.</string>
+    <string msgid="4516019619850763049" name="fingerprints">"Parmak izleri:"</string>
+    <string name="focal_length">Odak uzaklığı</string>
+    <string name="folder">Klasör</string>
+    <string name="folder_already_exists">\"%s\" klasörü zaten var</string>
+    <string name="follow_us">Bizi takip edin</string>
+    <string name="font_size">Yazı tipi boyutu</string>
+    <string name="force_portrait_mode">Dikey modu zorla</string>
+    <string name="foreground_color">Ön plan rengi</string>
+    <string name="frequently_asked_questions">Sık sorulan sorular</string>
+    <string name="friday">Cuma</string>
+    <string name="friday_letter">C</string>
+    <string name="friday_short">Cum</string>
+    <string name="gif_drawable_title">Gif Drawable (GIF\'leri yükleme)</string>
+    <string name="glide_title">Glide (görüntü yükleme ve önbellekleme)</string>
+    <string name="go_to_settings">Ayarlar\'a git</string>
+    <string name="gson_title">Gson (JSON ayrıştırıcısı)</string>
+    <string name="hide">Gizle</string>
+    <string name="hide_folder">Klasörü gizle</string>
+    <string name="hours_raw">saat</string>
+    <string name="importing">İçe aktarılıyor…</string>
+    <string name="importing_failed">İçe aktarılamadı</string>
+    <string name="importing_some_entries_failed">Bazı öğeler içe aktarılamadı</string>
+    <string name="importing_successful">İçe aktarma başarılı</string>
+    <string name="in_april">Nisan ayında</string>
+    <string name="in_august">Ağustos ayında</string>
+    <string name="in_december">Aralık ayında</string>
+    <string name="in_february">Şubat ayında</string>
+    <string name="in_january">Ocak ayında</string>
+    <string name="in_july">Temmuz ayında</string>
+    <string name="in_june">Haziran ayında</string>
+    <string name="in_march">Mart ayında</string>
+    <string name="in_may">Mayıs ayında</string>
+    <string name="in_november">Kasım ayında</string>
+    <string name="in_october">Ekim ayında</string>
+    <string name="in_september">Eylül ayında</string>
+    <string name="insert_pattern">Desen ekle</string>
+    <string name="internal">Dahili</string>
+    <string name="invalid_destination">Seçilen hedefe yazılamadı</string>
+    <string name="invalid_file_format">Geçersiz dosya biçimi</string>
+    <string name="invalid_name">İsim, geçersiz karakterler içeriyor</string>
+    <string name="invite_friends_underlined"><u>Arkadaşlarınızı davet edin</u></string>
+    <string name="invite_via">Şununla davet et</string>
+    <string name="iso_speed">ISO hızı</string>
+    <string name="items_selected">Seçilen öğeler</string>
+    <string name="january">Ocak</string>
+    <string name="joda_title">Joda-Time (Java tarih değiştirme)</string>
+    <string name="july">Temmuz</string>
+    <string name="june">Haziran</string>
+    <string name="keep_last_modified">Dosya kopyalama/taşıma/yeniden adlandırmada eski son değiştirilme değerini koru</string>
+    <string name="kotlin_title">Kotlin (programlama dili)</string>
+    <string name="large">Büyük</string>
+    <string name="last_modified">Son değiştirilme</string>
+    <string name="leak_canary_title">Leak Canary (bellek sızıntısı dedektörü)</string>
+    <string name="light_theme">Aydınlık</string>
+    <string name="march">Mart</string>
+    <string name="maximum_share_reached">Bu kadar çok içeriği bir kerede paylaşamazsınız</string>
+    <string name="may">Mayıs</string>
+    <string name="medium">Orta</string>
+    <string name="merge">Birleştir</string>
+    <string name="minutes_raw">dakika</string>
+    <string name="monday">Pazartesi</string>
+    <string name="monday_letter">P</string>
+    <string name="monday_short">Pzt</string>
+    <string name="more_apps_underlined"><u>Daha fazla uygulama</u></string>
+    <string name="move">Taşı</string>
+    <string name="move_items_to_trash_bin">Öğeleri silmek yerine Geri Dönüşüm Kutusuna taşı</string>
+    <string name="move_to">Taşı:</string>
+    <string name="move_to_recycle_bin_confirmation">%s gerçekten Geri Dönüşüm Kutusuna taşınsın mı?</string>
+    <string name="moving">Taşınıyor…</string>
+    <string name="moving_success">Dosyalar başarıyla taşındı</string>
+    <string name="moving_success_partial">Bazı dosyalar taşınamadı</string>
+    <string name="multiselect_title">RecyclerView MultiSelect (birden çok liste öğesi seçme)</string>
+    <string name="name">Ad</string>
+    <string name="name_taken">Bu ada sahip bir dosya veya klasör zaten var</string>
+    <string name="never">Asla</string>
+    <string name="new_app">
+        <![CDATA[
+            Selam,<br><br>
+            kısa bir süre önce yeni uygulamamın yayınlandığını bilmenizi istiyorum:<br><br>
+            <a href="%1$s">%2$s</a><br><br>
+            Başlığa basarak indirebilirsiniz.<br><br>
+            Teşekkürler
+        ]]>
+    </string>
+    <string name="no">Hayır</string>
+    <string name="no_app_found">Geçerli bir uygulama bulunamadı</string>
+    <string name="no_audio_permissions">Ses izni gerekiyor</string>
+    <string name="no_camera_permissions">Kamera izni gerekiyor</string>
+    <string name="no_contacts_permission">Kişiler izni gerekiyor</string>
+    <string name="no_entries_for_exporting">Dışa aktarılacak öğe bulunamadı</string>
+    <string name="no_files_selected">Hiçbir dosya seçilmedi</string>
+    <string name="no_fingerprints_registered">Parmak iziniz kayıtlı değil, lütfen cihazınızın Ayarlar bölümünden ekleyin</string>
+    <string name="no_items_found">Hiçbir öğe bulunamadı.</string>
+    <string name="no_reminder">Hatırlatma yok</string>
+    <string name="no_sound">Ses yok</string>
+    <string name="no_storage_permissions">Depolama izni gerekiyor</string>
+    <string name="notes">Notlar</string>
+    <string name="notice">Bu uygulama hayatımı kolaylaştırmak için aşağıdaki üçüncü taraf kitaplıklarını kullanır. Teşekkürler.</string>
+    <string name="november">Kasım</string>
+    <string name="number_picker_title">Number Picker (özelleştirilebilir sayı seçici)</string>
+    <string name="october">Ekim</string>
+    <string name="ok">Tamam</string>
+    <string name="open_with">Birlikte aç</string>
+    <string name="otg">OTG</string>
+    <string name="otto_title">Otto (event bus)</string>
+    <string name="out_of_memory_error">Yetersiz hafıza hatası</string>
+    <string name="overwrite">Üzerine yaz</string>
+    <string name="password_protect_hidden_items">Parola korumalı gizli öğe görünürlüğü</string>
+    <string name="password_protect_whole_app">Parola tüm uygulamayı korur</string>
+    <string name="path">Yol</string>
+    <string name="pattern">Desen</string>
+    <string name="pattern_title">PatternLockView (desen koruması)</string>
+    <string name="photoview_title">PhotoView (yakınlaştırılabilir GIF\'ler)</string>
+    <string name="picasso_title">Picasso (görüntü yükleme ve önbellekleme)</string>
+    <string name="pin">PIN</string>
+    <string name="place_finger">Lütfen parmağınızı parmak izi sensörüne yerleştirin</string>
+    <string name="please_enter_pin">Lütfen PIN girin</string>
+    <string name="please_select_destination">Lütfen bir hedef seçin</string>
+    <string name="prevent_phone_from_sleeping">Uygulama ön plandayken telefonun uykuya geçmesini önle</string>
+    <string name="primary_color">Ana renk</string>
+    <string name="proceed_with_deletion">Silme işlemine devam etmek istediğinizden emin misiniz?</string>
+    <string name="properties">Özellikler</string>
+    <string name="protection_setup_successfully">Parola kurulumu başarılı oldu. Lütfen unuttuğunuz durumda uygulamayı yeniden yükleyin.</string>
+    <string name="purchase">Satın al</string>
+    <string name="purchase_thank_you">
+        <![CDATA[
+            Bu işlevin kilidini açmak ve geliştirmeyi desteklemek için lütfen <a href="https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou">Simple Thank You</a>\'yu satın alın. Teşekkürler!
+        ]]>
+    </string>
+    <string name="rate_us_underlined"><u>Bizi değerlendirin</u></string>
+    <string name="recycle_bin">Geri Dönüşüm Kutusu</string>
+    <string name="recycle_bin_cleaning_interval">Geri Dönüşüm Kutusu temizleme süresi</string>
+    <string name="recycle_bin_location">Geri Dönüşüm Kutusu konumu</string>
+    <string name="reminder_warning">Lütfen hatırlatıcılara güvenmeden önce düzgün çalıştıklarından emin olun. Pil tasarrufu ile ilgili sistem kısıtlamaları nedeniyle yanlış davranabilirler.</string>
+    <string name="remove">Kaldır</string>
+    <string name="rename">Yeniden adlandır</string>
+    <string name="rename_file">Dosyayı yeniden adlandır</string>
+    <string name="rename_file_error">Dosya yeniden adlandırılamıyor</string>
+    <string name="rename_folder">Klasörü yeniden adlandır</string>
+    <string name="rename_folder_empty">Klasör adı boş olamaz</string>
+    <string name="rename_folder_error">Klasör yeniden adlandırılamıyor</string>
+    <string name="rename_folder_exists">Bu ada sahip bir klasör zaten var</string>
+    <string name="rename_folder_ok">Klasör başarıyla yeniden adlandırıldı</string>
+    <string name="rename_folder_root">Depolama biriminin kök klasörü yeniden adlandıramaz</string>
+    <string name="renaming_folder">Klasörü yeniden adlandırma</string>
+    <string name="repeat_pattern">Deseni tekrarla</string>
+    <string name="repeat_pin">PIN\'i tekrarla</string>
+    <string name="reprint_title">Reprint (parmak izi koruması)</string>
+    <string name="resolution">Çözünürlük</string>
+    <string name="restore_defaults">Varsayılanları geri yükle</string>
+    <string name="robolectric_title">Robolectric (test çerçevesi)</string>
+    <string name="root">Root</string>
+    <string name="rtl_viewpager_title">RtlViewPager (sağdan sola  kaydırma)</string>
+    <string name="saturday">Cumartesi</string>
+    <string name="saturday_letter">C</string>
+    <string name="saturday_short">Cmt</string>
+    <string name="save">Kaydet</string>
+    <string name="save_as">Farklı kaydet</string>
+    <string name="save_before_closing">Kaydedilmemiş değişiklikleriniz var. Çıkmadan önce kaydedilsin mi?</string>
+    <string name="saving">Kaydediliyor…</string>
+    <string name="saving_label">Kaydetme</string>
+    <string name="scrolling">Kaydırma</string>
+    <string name="sd_card">SD Kart</string>
+    <string name="sd_card_otg_same">SD kart ve OTG cihaz yolları aynı olamaz</string>
+    <string name="search">Ara</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
+    <string name="seconds_raw">saniye</string>
+    <string name="security">Güvenlik</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="select_destination">Hedef seç</string>
+    <string name="select_file">Bir dosya seç</string>
+    <string name="select_folder">Bir klasör seç</string>
+    <string name="select_storage">Depolama seç</string>
+    <string name="september">Eylül</string>
+    <string name="set_as">Ayarla</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="share_colors_success">"Renkler başarıyla güncellendi. 'Paylaşılan' adlı yeni bir Tema eklendi, lütfen gelecekte tüm uygulama renklerini güncellemek için kullanınız."</string>
+    <string name="share_text">Selam, %1$s adlı harika bir uygulama buldum. %2$s adresinden indir</string>
+    <string name="share_via">Şununla paylaş</string>
+    <string name="shared">Paylaşılan</string>
+    <string name="show_hidden_items">Gizli öğeleri göster</string>
+    <string name="show_info_bubble">Kaydırma çubuğunu sürükleyerek öğeleri kaydırmada bilgi balonunu göster</string>
+    <string name="size">Boyut</string>
+    <string name="skip">Atla</string>
+    <string name="skip_delete_confirmation">Her zaman silme onayı penceresini atla</string>
+    <string name="small">Küçük</string>
+    <string name="snooze">Ertele</string>
+    <string name="snooze_time">Erteleme süresi</string>
+    <string name="solarized">Solarized</string>
+    <string name="song_title">Şarkı başlığı</string>
+    <string name="sort_by">Sıralama ölçütü</string>
+    <string name="source">Kaynak</string>
+    <string name="source_and_destination_same">Kaynak ve hedef aynı olamaz</string>
+    <string name="source_file_doesnt_exist">%s kaynak dosyası mevcut değil</string>
+    <string name="startup">Başlangıç</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stetho_title">Stetho (hata ayıklama veritabanları)</string>
+    <string name="stop_showing_hidden">Gizli medyayı göstermeyi bırak</string>
+    <string name="subsampling_title">Subsampling Scale Image View (yakınlaştırılabilir görüntü görünümleri)</string>
+    <string name="sunday">Pazar</string>
+    <string name="sunday_first">Pazar günü hafta başlangıcı</string>
+    <string name="sunday_letter">P</string>
+    <string name="sunday_short">Paz</string>
+    <string name="system_sounds">Sistem sesleri</string>
+    <string name="temporarily_show_hidden">Geçici olarak gizliyi göster</string>
+    <string name="text">Metin</string>
+    <string name="text_color">Metin rengi</string>
+    <string name="theme">Tema</string>
+    <string name="third_party_licences">Üçüncü taraf lisansları</string>
+    <string name="third_party_licences_underlined"><u>Üçüncü taraf lisansları</u></string>
+    <string name="thursday">Perşembe</string>
+    <string name="thursday_letter">P</string>
+    <string name="thursday_short">Per</string>
+    <string name="title">Başlık</string>
+    <string name="tomorrow">Yarın</string>
+    <string name="tuesday">Salı</string>
+    <string name="tuesday_letter">S</string>
+    <string name="tuesday_short">Sal</string>
+    <string name="type_2_characters">Aramaya başlamak için en az 2 karakter yazın.</string>
+    <string name="undo_changes">Değişiklikleri geri al</string>
+    <string name="undo_changes_confirmation">Değişikliklerinizi geri almak istediğinizden emin misiniz?</string>
+    <string name="unhide">Göster</string>
+    <string name="unhide_folder">Klasörü göster</string>
+    <string name="unknown">Bilinmeyen</string>
+    <string name="unknown_error_occurred">Bilinmeyen bir hata oluştu</string>
+    <string name="update_thank_you">Lütfen Simple Thank You\'yu son sürüme güncelleyin</string>
+    <string name="use_24_hour_time_format">24 saat biçimini kullan</string>
+    <string name="use_english_language">İngilizce dilini kullan</string>
+    <string name="use_for_this_folder">Sadece bu klasör için kullan</string>
+    <string name="use_same_snooze">Her zaman aynı erteleme süresini kullan</string>
+    <string name="value_copied_to_clipboard">Değer panoya kopyalandı</string>
+    <string name="vibrate_on_button_press">Düğmeye basıldığında titret</string>
+    <string name="visibility">Görünürlük</string>
+    <string name="website_label">Kaynak kodları için ziyaret edin</string>
+    <string name="wednesday">Çarşamba</string>
+    <string name="wednesday_letter">Ç</string>
+    <string name="wednesday_short">Çar</string>
+    <string name="whats_new">Yenilikler</string>
+    <string name="whats_new_disclaimer">* yalnızca büyük güncellemeler burada listelenmiştir; daima bazı küçük geliştirmeler de vardır</string>
+    <string name="widgets">Widget\'lar</string>
+    <string name="wrong_pattern">Yanlış desen</string>
+    <string name="wrong_pin">Yanlış PIN</string>
+    <string name="wrong_root_selected">Yanlış klasör seçildi, lütfen SD kartınızın kök klasörünü seçin</string>
+    <string name="wrong_root_selected_otg">Yanlış klasör seçildi, lütfen OTG cihazınızın kök klasörünü seçin</string>
+    <string name="yes">Evet</string>
+    <string name="your_sounds">Sesleriniz</string>
+</resources>
