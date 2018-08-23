@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/reminder_holder"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.simplemobiletools.commons.views.MyTextView
+        android:id="@+id/reminder_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:textSize="@dimen/reminder_activity_title_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Timer expired"/>
+
+    <com.simplemobiletools.commons.views.MyTextView
+        android:id="@+id/reminder_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/activity_margin"
+        android:textSize="@dimen/reminder_activity_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reminder_title"
+        tools:text="14:00"/>
+
+    <ImageView
+        android:id="@+id/reminder_snooze"
+        style="@style/MyBorderlessBackgroundStyle"
+        android:layout_width="@dimen/stopwatch_button_small_size"
+        android:layout_height="@dimen/stopwatch_button_small_size"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/reminder_stop"
+        android:padding="@dimen/normal_margin"
+        android:src="@drawable/ic_snooze_big"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/reminder_stop"
+        app:layout_constraintEnd_toStartOf="@+id/reminder_stop"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/reminder_stop"/>
+
+    <ImageView
+        android:id="@+id/reminder_stop"
+        android:layout_width="@dimen/stopwatch_button_size"
+        android:layout_height="@dimen/stopwatch_button_size"
+        android:layout_marginBottom="@dimen/big_margin"
+        android:padding="@dimen/normal_margin"
+        android:src="@drawable/ic_stop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+</android.support.constraint.ConstraintLayout>
